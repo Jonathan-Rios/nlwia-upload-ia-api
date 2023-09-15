@@ -25,7 +25,7 @@
 
 <br>
 
-<h3 align="center">Imagem prévia da aplicação</h3>
+<h3 align="center">Imagem prévia da aplicação (WEB + API)</h3>
  
 <div align="center">
   <img src=".github/project-preview.gif?style=flat" alt="Cover" />
